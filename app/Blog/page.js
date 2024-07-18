@@ -1,4 +1,5 @@
 'use client'
+import BlogFooter from '@/Components/BlogFooter'
 import BlogHeader from '@/Components/BlogHeader'
 import BlogList from '@/Components/BlogList'
 
@@ -7,6 +8,7 @@ const page = () => {
     <>
         <BlogHeader />
         <BlogList />
+        <BlogFooter />
     </>
   )
 }
