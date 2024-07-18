@@ -1,11 +1,13 @@
+'use client'
 import BlogHeader from '@/Components/BlogHeader'
-import React from 'react'
+import BlogList from '@/Components/BlogList'
 
 const page = () => {
   return (
-    <div>
+    <>
         <BlogHeader />
-    </div>
+        <BlogList />
+    </>
   )
 }
 
