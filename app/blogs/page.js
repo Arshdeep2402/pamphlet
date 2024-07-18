@@ -8,7 +8,7 @@ const page = () => {
     <>
         <BlogHeader />
         <BlogList />
-        <BlogFooter />
+        <BlogFooter /> 
     </>
   )
 }
