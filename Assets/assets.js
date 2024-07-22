@@ -41,7 +41,7 @@ export const assets = {
     }
 
     export const blog_data = [{
-        id:1,
+        slug:1,
         title:"A detailed step by step guide to manage your lifestyle",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_1,
@@ -51,7 +51,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:2,
+        slug:2,
         title:"How to create an effective startup roadmap or ideas",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_2,
@@ -61,7 +61,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:3,
+        slug:3,
         title:"Learning new technology to boost your career in software",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_3,
@@ -71,7 +71,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:4,
+        slug:4,
         title:"Tips for getting the most out of apps and software",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_4,
@@ -81,7 +81,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:5,
+        slug:5,
         title:"Enhancing your skills and capturing memorable moments",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_5,
@@ -91,7 +91,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:6,
+        slug:6,
         title:"Maximizing returns by minimizing resources in your startup",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_6,
@@ -101,7 +101,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:7,
+        slug:7,
         title:"Technology for Career advancement in development",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_7,
@@ -111,7 +111,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:8,
+        slug:8,
         title:"A comprehensive roadmap for effective lifestyle management",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_8,
@@ -121,7 +121,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:9,
+        slug:9,
         title:"Achieving maximum returns with minimal resources",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_9,
@@ -131,7 +131,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:10,
+        slug:10,
         title:"Beyond the Ordinary: Crafting Your Exceptional Lifestyle",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_10,
@@ -141,7 +141,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:11,
+        slug:11,
         title:"Unveiling the Secrets of Successful Startups in Technolgy",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_11,
@@ -151,7 +151,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:12,
+        slug:12,
         title:"How to design an online Learning Platform today",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_12,
@@ -161,7 +161,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:13,
+        slug:13,
         title:"Tomorrow's Algorithms: Shaping the Landscape of Future AI",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_13,
@@ -171,7 +171,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:14,
+        slug:14,
         title:"Balance & Bliss: Navigating Life's Journey with Style",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_14,
@@ -181,7 +181,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:15,
+        slug:15,
         title:"Exploring the Evolution of social networking in the Future",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_15,
@@ -191,7 +191,7 @@ export const assets = {
         author_img:profile_icon
     },
     {
-        id:16,
+        slug:16,
         title:"Shaping the Future of statup ecosystem in the world",
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_16,

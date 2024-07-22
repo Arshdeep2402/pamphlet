@@ -1,0 +1,41 @@
+.markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
+
+.markdown h2 {
+  @apply text-3xl my-4 leading-snug;
+}
+
+.markdown h3 {
+  @apply text-2xl  leading-snug my-4;
+}
+.markdown ul {
+  @apply list-disc;
+}
+.markdown ol {
+  @apply list-decimal;
+}
+.markdown p {
+  @apply py-1;
+}
+.markdown ul {
+  @apply ml-10;
+}
+.markdown ol {
+  @apply ml-10;
+}
+.markdown ol h3 {
+  @apply -ml-12 py-4;
+}
+.markdown a{
+  @apply text-blue-600;
+}
+.markdown a:hover{
+  @apply underline;
+}
