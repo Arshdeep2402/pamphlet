@@ -4,6 +4,8 @@ description: " Discover a curated list of over 111 engaging Google Scholar resea
 coverImage: "/blog/Google Scholar Research Topics.webp"
 date: "2024-04-15"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -5,6 +5,8 @@ description: " Explore 50+ exciting AI project ideas for beginners, covering com
 coverImage: "/blog/AI Project Ideas  for Beginners.webp"
 date: "2024-04-19"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

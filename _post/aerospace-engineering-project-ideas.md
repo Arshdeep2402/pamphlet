@@ -5,6 +5,8 @@ description: " Explore the most innovative Aerospace Engineering Project Ideas f
 coverImage: "/blog/Aerospace Engineering Project Ideas.webp"
 date: "2024-04-26"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

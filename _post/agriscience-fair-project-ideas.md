@@ -5,6 +5,8 @@ description: " Find exciting Agriscience Fair Project Ideas to spark interest an
 coverImage: "/blog/Agriscience Fair Project Ideas.webp"
 date: "2024-06-05"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

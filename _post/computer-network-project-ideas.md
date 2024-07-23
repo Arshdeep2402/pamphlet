@@ -5,6 +5,8 @@ description: " Discover a wide range of computer network project ideas to fuel y
 coverImage: "/blog/Computer Network Project Ideas.webp"
 date: "2024-04-22"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

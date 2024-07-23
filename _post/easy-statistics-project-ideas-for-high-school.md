@@ -5,6 +5,8 @@ description: " Explore this comprehensive list of 150+ easy statistics project i
 coverImage: "/blog/Easy Statistics Project Ideas For High School.webp"
 date: "2024-04-27"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

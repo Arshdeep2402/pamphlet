@@ -4,6 +4,8 @@ description: " Explore the top 199+ quantitative research topics ideal for STEM 
 coverImage: "/blog/Quantitative Research Topics for STEM Students.webp"
 date: "2024-05-09"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

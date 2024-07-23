@@ -4,6 +4,8 @@ description: " Discover a comprehensive list of over 200 fascinating bibliograph
 coverImage: "/blog/Bibliography Research Topics.webp"
 date: "2024-04-09"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

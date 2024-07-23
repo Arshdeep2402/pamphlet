@@ -6,6 +6,8 @@ description: " Discover the 200+ most pressing environmental issues and innovati
 coverImage: "/blog/Environmental Research Topics For College Students.webp"
 date: "2024-04-16"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

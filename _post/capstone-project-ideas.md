@@ -5,6 +5,8 @@ description: " Explore our comprehensive list of 190+ capstone project ideas acr
 coverImage: "/blog/Capstone Project Ideas.webp"
 date: "2024-04-20"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

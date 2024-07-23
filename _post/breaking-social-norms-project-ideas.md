@@ -5,6 +5,8 @@ description: " Explore over 99 unconventional project ideas that challenge socia
 coverImage: "/blog/Breaking Social Norms Project Ideas.webp"
 date: "2024-04-11"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -4,6 +4,8 @@ description: " Spark your students'creativity! Get Shark Tank Project Ideas For 
 coverImage: "/blog/Shark Tank Project Ideas for Middle School.webp"
 author: Amar
 date: "2024-06-05"
+author_img: /experts/705.jpg
+
 
 faq:
   [

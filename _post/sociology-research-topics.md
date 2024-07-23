@@ -4,6 +4,8 @@ description: " Explore thought-provoking sociology research topics that delve in
 coverImage: "/blog/Sociology Research Topics.webp"
 date: "2024-04-05"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

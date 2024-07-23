@@ -4,6 +4,8 @@ description: " Explore 51 exciting Supervised Agricultural Experience (SAE) proj
 coverImage: "/blog/SAE Project Ideas For High School Students.webp"
 date: "2024-04-017"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

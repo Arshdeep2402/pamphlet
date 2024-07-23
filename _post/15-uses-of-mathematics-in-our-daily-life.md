@@ -4,6 +4,7 @@ description: " Read why mathematics is important for us and how it is part of ou
 coverImage: "/blog/15 Uses Of Mathematics In Our Daily Life.webp"
 date: "2024-05-09"
 author: Amar
+author_img: /experts/705.jpg
 faq:
   [
     {

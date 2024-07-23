@@ -4,6 +4,8 @@ description: " Explore engaging Art Integrated Project Ideas  that combine creat
 coverImage: "/blog/art-integrated-project-ideas.webp"
 date: "2024-05-03"
 author: Ankit
+author_img: /experts/705.jpg
+
 faq:
   [
     {

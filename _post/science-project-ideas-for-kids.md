@@ -5,6 +5,8 @@ description: " Explore exciting science project ideas perfect for kids of all ag
 coverImage: "/blog/Science Project Ideas For Kids.webp"
 date: "2024-04-24"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

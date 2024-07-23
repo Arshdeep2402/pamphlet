@@ -4,6 +4,8 @@ description: " Explore this comprehensive list of over 100 engaging project-base
 coverImage: "/blog/Project-Based Learning Ideas For Middle School Students.webp"
 date: "2024-04-15"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

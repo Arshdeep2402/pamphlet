@@ -5,6 +5,7 @@ description: " Explore innovative civic action project ideas for high school stu
 coverImage: "/blog/Civic Action Project Ideas For High School.webp"
 date: "2024-04-23"
 author: Amar
+author_img: /experts/705.jpg
 faq:
   [
     {

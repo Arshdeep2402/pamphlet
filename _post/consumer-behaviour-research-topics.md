@@ -4,6 +4,8 @@ title: "Top 83+ Insightful Consumer Behaviour Research Topics for Students
 description: " Explore our extensive list of 83+ fresh and engaging consumer behavior research topics to inspire your next academic paper or marketing and business studies dissertation."
 coverImage: "/blog/Consumer Behaviour Research Topics.webp"
 author: Amar
+author_img: /experts/705.jpg
+
 date: "2024-06-05"
 
 faq:

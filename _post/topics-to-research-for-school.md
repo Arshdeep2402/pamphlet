@@ -4,6 +4,8 @@ description: " Struggling to find a great research topic for your next school pa
 coverImage: "/blog/Topics To Research  For School.webp"
 date: "2024-05-15"
 author: Amar
+author_img: /experts/705.jpg
+
 
 ---
 Choosing a good topic for a research paper or project can be difficult. You want something interesting that will keep you motivated but not too broad or hard to cover. Finding the right balance is key. This list provides over 99 potential research topics across many subject areas for high school or college assignments.

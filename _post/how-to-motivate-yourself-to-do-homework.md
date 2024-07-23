@@ -6,6 +6,8 @@ description: " Struggling to find motivation for homework? Our guide offers prac
 coverImage: "/blog/How To Motivate Yourself To Do Homework.webp"
 date: "2024-05-16"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

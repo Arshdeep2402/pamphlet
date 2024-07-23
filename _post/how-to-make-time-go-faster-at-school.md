@@ -4,6 +4,8 @@ description: " Feeling bored at school? Discover the 15 practical strategies to 
 coverImage: "/blog/How To Make Time Go Faster At School.webp"
 date: "2024-05-010"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -4,6 +4,8 @@ description: " Explore the detrimental effects of excessive homework on students
 coverImage: "/blog/Why Homework is Harmful for Students.webp"
 date: "2024-05-011"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -4,6 +4,8 @@ description: " Is homework pointless? We think so! Discover 100 Reasons Why Home
 coverImage: "/blog/100 Reasons Why Homework Is Bad.webp"
 date: "2024-05-08"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

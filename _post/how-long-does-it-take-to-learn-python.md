@@ -4,6 +4,8 @@ description: " Discover how long it takes to learn Python, one of the most popul
 coverImage: "/blog/How Long Does It Take To Learn Python.webp"
 date: "2024-05-010"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

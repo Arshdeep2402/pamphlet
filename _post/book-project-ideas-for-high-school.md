@@ -5,6 +5,8 @@ description: " Explore 61+ creative book project ideas for high school students.
 coverImage: "/blog/Book Project Ideas For High School Students.webp"
 date: "2024-04-26"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

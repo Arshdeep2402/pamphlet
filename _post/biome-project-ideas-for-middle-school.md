@@ -4,6 +4,8 @@ description: " Discover unique and engaging biome project ideas for middle schoo
 coverImage: "/blog/Biome Project Ideas For Middle School.webp"
 date: "2024-05-03"
 author: Ankit
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -5,6 +5,8 @@ description: " Explore a diverse range of senior project ideas for high school s
 coverImage: "/blog/Senior Project Ideas For High School Students.webp"
 date: "2024-05-6"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

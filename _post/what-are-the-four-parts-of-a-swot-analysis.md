@@ -1,11 +1,14 @@
 ---
 title: "What Are The Four Parts of a SWOT Analysis: Detailed Guide!
 
+
   "
 description: " Discover the four essential components of a SWOT analysis: Strengths, Weaknesses, Opportunities, and Threats. Learn how to effectively evaluate your business's internal and external factors for strategic planning."
 coverImage: "/blog/What Are The Four Parts of a SWOT Analysis.webp"
 date: "2024-05-17"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

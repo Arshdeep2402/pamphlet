@@ -5,6 +5,7 @@ description: " Discover a world of impactful community service projects to enric
 coverImage: "/blog/Community Service Project Ideas For High School.webp"
 date: "2024-04-10"
 author: Amar
+author_img: /experts/705.jpg
 faq:
   [
     {

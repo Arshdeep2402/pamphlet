@@ -4,6 +4,8 @@ description: " Explore engaging world history project ideas for high school stud
 coverImage: "/blog/World History Project Ideas For High School Students.webp"
 date: "2024-04-25"
 author: Amar
+author_img: /experts/705.jpg
+
 faq:
   [
     {

@@ -4,6 +4,8 @@ description: " Do you need social influence project ideas? Get started with our 
 coverImage: "/blog/Social Influence Project Ideas .webp"
 author: Amar
 date: "2024-06-05"
+author_img: /experts/705.jpg
+
 
 faq: [{ question: "What kind of projects on social influence can I do?
         ", answer: "There are numerous possibilities. You could discover how trends are spread on social media, what influence celebrities have on people’s buying habits, or even examine word-of-mouth recommendations.
